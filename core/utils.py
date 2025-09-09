@@ -1,6 +1,7 @@
 import os
 import shutil
 
+
 sep = "/"
 if os.name == "nt":
     sep = "\\"
