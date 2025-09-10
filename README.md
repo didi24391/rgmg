@@ -1,4 +1,4 @@
-20250909：同时替换视频里面的人脸，默认从左到右，根据每一帧的人脸顺序进行替换。
+20250910：同时替换视频里面的人脸，默认从左到右，根据每一帧的人脸顺序进行替换，支持多GPU模式。
 
 Take a video and replace the face in it with a face of your choice. You only need one image of the desired face. No dataset, no training.
 
