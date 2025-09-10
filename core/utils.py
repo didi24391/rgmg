@@ -63,3 +63,4 @@ def is_img(path):
 def rreplace(s, old, new, occurrence):
     li = s.rsplit(old, occurrence)
     return new.join(li)
+    
